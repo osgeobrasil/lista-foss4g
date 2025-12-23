@@ -11,7 +11,9 @@ A ideia desta lista surgiu a partir de uma mobilização da comunidade no Linked
 * [✍️ Blogs e Portais](#️-blogs-e-portais)
 * [🎓 Cursos e Treinamentos](#-cursos-e-treinamentos)
 * [📊 Repositórios de Dados e APIs](#-repositórios-de-dados-e-apis)
+* [👥 Comunidades e Grupos](#-comunidades-e-grupos)
 * [🚀 Como Contribuir](#-como-contribuir)
+
 
 ---
 ## 📺 Canais no YouTube
@@ -25,7 +27,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 | **DescomplicaQGIS** | Leonardo Marques | [Acessar](https://www.youtube.com/@DescomplicaQGIS) |
 | **Geoaplicada** | Jocilene Barros | [Acessar](https://www.youtube.com/@Geoaplicada) |
 | **Geocast Brasil** | Felipe Sodré | [Acessar](https://www.youtube.com/@GeocastBrasil) |
-| **GeografiaDasCoisas** | Abimael Cereda Junior | [Acessar](https://www.youtube.com/@GeografiaDasCoisas) |
+| **Geografia das Coisas** | Abimael Cereda Junior | [Acessar](https://www.youtube.com/@GeografiaDasCoisas) |
 | **Geo Sensor** | Prof. Gustavo Baptista | [Acessar](https://www.youtube.com/@GeoSensor) |
 | **InstrutorGIS** | Jorge Santos | [Acessar](https://www.youtube.com/@InstrutorGIS) |
 | **Inteligência Geográfica** | - | [Acessar](https://www.youtube.com/@InteligenciaGeografica) |
@@ -38,7 +40,10 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 | **ThinkFreeGeo** | Kyle Felipe Vieira Roberto | [Acessar](https://www.youtube.com/@ThinkFreeGeo) |
 | **VasGeo** | - | [Acessar](https://www.youtube.com/@VasGeo) |
 | **Narcélio de Sá** | Narcélio de Sá Pereira Filho | [Acessar](https://www.youtube.com/@narceliodesa) |
+| **Geotecnologias na rede** | Professor Alex Mota | [Acessar](https://www.youtube.com/@geotecnologiasnarede_extensao) |
+| **Mundo da Geomática** | Prof. Dr. Alexandre Rosa | [Acessar](https://www.youtube.com/@mundogeomatica) |
 
+---
 ## ✍️ Blogs e Portais
 *Recursos textuais, tutoriais escritos e notícias.*
 
@@ -46,7 +51,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 * **Anderson Medeiros**: [Link](https://andersonmedeiros.com/)
 * **Blog do Fernando Quadro**: [Link](https://www.fernandoquadro.com.br/html/)
 * **Blog do Narcélio de Sá**: [Link](https://narceliodesa.com)
-* **Geosaber** [Link](https://www.geosaber.com.br/blog/)
+* **Geosaber** (Sidney Goveia) [Link](https://www.geosaber.com.br/blog/)
 * *(Adicione mais aqui)*
 
 ---
@@ -54,17 +59,23 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 *Plataformas que oferecem capacitação em softwares livres geo.*
 
 * **Geocursos:** [Link](https://www.geocursos.com.br)
-* **Geosaber** [link](https://www.geosaber.com.br)
+* **Geosaber** (Sidney Goveia) [link](https://www.geosaber.com.br)
 * *(Adicione mais aqui)*
----
 
+---
 ## 📊 Repositórios de Dados e APIs
 *Onde encontrar dados abertos para usar com ferramentas FOSS4G.*
 
 * **INDE (Infraestrutura Nacional de Dados Espaciais):** [Link](https://visualizador.inde.gov.br/)
 * **IBGE Geociências:** [Link](https://www.ibge.gov.br/geociencias/downloads-geociencias.html)
+* **MapBiomas** [link](https://brasil.mapbiomas.org/downloads/)
 * *(Adicione mais aqui)*
 
+---
+## 👥 Comunidades e Grupos
+
+* **Telegram QGIS Brasil** [link](https://t.me/thinkfreeqgis)
+* **Fórum do QGIS Brasil** [Link](https://groups.google.com/forum/#!forum/qgisbrasil)
 ---
 ## 🚀 Como Contribuir
 
