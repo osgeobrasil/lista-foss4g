@@ -25,7 +25,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 | **ClickGeo** | Anderson Medeiros | [Acessar](https://www.youtube.com/@ClickGeo) |
 | **Dalvi Geotecnologias** | - | [Acessar](https://www.youtube.com/@dalvigeotecnologias) |
 | **DescomplicaQGIS** | Leonardo Marques | [Acessar](https://www.youtube.com/@DescomplicaQGIS) |
-| **Geoaplicada** | Jocilene Barros | [Acessar](https://www.youtube.com/@Geoaplicada) |
+| **Geoaplicada** | Jocilene Barros e Alexandre Marques | [Acessar](https://www.youtube.com/@Geoaplicada) |
 | **Geocast Brasil** | Felipe Sodré | [Acessar](https://www.youtube.com/@GeocastBrasil) |
 | **Geografia das Coisas** | Abimael Cereda Junior | [Acessar](https://www.youtube.com/@GeografiaDasCoisas) |
 | **Geo Sensor** | Prof. Gustavo Baptista | [Acessar](https://www.youtube.com/@GeoSensor) |
@@ -52,6 +52,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 * **Blog do Fernando Quadro**: [Link](https://www.fernandoquadro.com.br/html/)
 * **Blog do Narcélio de Sá**: [Link](https://narceliodesa.com)
 * **Geosaber** (Sidney Goveia) [Link](https://www.geosaber.com.br/blog/)
+* **Geoaplicada** [Link](https://www.geoaplicada.com/)
 * *(Adicione mais aqui)*
 
 ---
@@ -60,6 +61,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 
 * **Geocursos:** [Link](https://www.geocursos.com.br)
 * **Geosaber** (Sidney Goveia) [link](https://www.geosaber.com.br)
+* **Geoaplicada** [Link](https://www.geoaplicada.com/cursos)
 * *(Adicione mais aqui)*
 
 ---
@@ -69,6 +71,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 * **INDE (Infraestrutura Nacional de Dados Espaciais):** [Link](https://visualizador.inde.gov.br/)
 * **IBGE Geociências:** [Link](https://www.ibge.gov.br/geociencias/downloads-geociencias.html)
 * **MapBiomas** [link](https://brasil.mapbiomas.org/downloads/)
+* **Geoaplicada** [Link](https://www.geoaplicada.com/dados)
 * *(Adicione mais aqui)*
 
 ---
