@@ -79,6 +79,8 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 
 * **Telegram QGIS Brasil** [link](https://t.me/thinkfreeqgis)
 * **Fórum do QGIS Brasil** [Link](https://groups.google.com/forum/#!forum/qgisbrasil)
+* **WhatsApp GeoServer-BR** [Link](https://geoserver.com.br/whatsapp)
+* **WhatsApp GeoNode-BR** [Link](https://tr.ee/dbnqW12uuR)
 ---
 ## 🚀 Como Contribuir
 
