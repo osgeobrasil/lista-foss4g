@@ -23,7 +23,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 | Canal | Responsável | Link |
 | :--- | :--- | :--- |
 | **ClickGeo** | Anderson Medeiros | [Acessar](https://www.youtube.com/@ClickGeo) |
-| **Dalvi Geotecnologias** | - | [Acessar](https://www.youtube.com/@dalvigeotecnologias) |
+| **Dalvi Geotecnologias** | Otavio Dalvi | [Acessar](https://www.youtube.com/@dalvigeotec) |
 | **DescomplicaQGIS** | Leonardo Marques | [Acessar](https://www.youtube.com/@DescomplicaQGIS) |
 | **Geoaplicada** | Jocilene Barros e Alexandre Marques | [Acessar](https://www.youtube.com/@Geoaplicada) |
 | **Geocast Brasil** | Felipe Sodré | [Acessar](https://www.youtube.com/@GeocastBrasil) |
@@ -72,6 +72,7 @@ Abaixo estão os principais criadores de conteúdo que disseminam conhecimento s
 * **IBGE Geociências:** [Link](https://www.ibge.gov.br/geociencias/downloads-geociencias.html)
 * **MapBiomas** [link](https://brasil.mapbiomas.org/downloads/)
 * **Geoaplicada** [Link](https://www.geoaplicada.com/dados)
+* **GEOBASES** [Link](https://geobases.es.gov.br/downloads)
 * *(Adicione mais aqui)*
 
 ---
